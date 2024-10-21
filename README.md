@@ -6,10 +6,6 @@ Este é o repositório do projeto "Adolescentes que Mudam o Mundo", uma simulaç
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
 
 ## Sobre o Projeto
@@ -24,3 +20,6 @@ Este é o repositório do projeto "Adolescentes que Mudam o Mundo", uma simulaç
 - **Tema do Debate**: Informações sobre o tema central da simulação, que neste caso é a Guerra na Palestina.
 - **Sistema de Dropdown**: Interface interativa com seções expansíveis para facilitar a navegação.
   
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
