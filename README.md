@@ -18,7 +18,6 @@ Este é o repositório do projeto "Adolescentes que Mudam o Mundo", uma simulaç
 - **Organização de Cargos**: Informações sobre os papéis desempenhados pelos participantes na simulação.
 - **Regras da Simulação**: Diretrizes e normas a serem seguidas durante os debates.
 - **Tema do Debate**: Informações sobre o tema central da simulação, que neste caso é a Guerra na Palestina.
-- **Sistema de Dropdown**: Interface interativa com seções expansíveis para facilitar a navegação.
   
 ## Licença
 
